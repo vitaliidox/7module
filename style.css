@@ -1,0 +1,69 @@
+#body{
+    background-color: rgb(210, 210, 219);
+}
+h2{
+    text-align: center;
+}
+#title{
+    margin-left: 35px;
+    width: 173px !important;
+    box-sizing: content-box;
+}
+.container{
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center !important;
+    width: 300px !important;
+    margin:auto;
+    background-color: rgb(200, 200, 245);
+}
+.container div{
+    margin-top:5px;
+    margin-bottom: 5px;
+    height: 30px;
+}
+#months{
+    margin-left: 20px;
+    width: 180px !important;
+    height: 25px;
+    box-sizing: content-box;
+}
+#btn{
+    width:250px;
+    margin-bottom: 5px;
+    height: 35px;
+    text-align: center;
+    border-radius: 5px;
+}
+#pagin{
+    width: 85vw;
+    height: 60vh;
+    margin: auto;
+    margin-top: 10vh;
+}
+#nav{
+    margin-top: 5vh;
+}
+
+.page-item{
+    font-size: 20px;
+}
+.post{
+    background-image: url(https://img.freepik.com/free-vector/watercolor-pastel-sky-background_23-2148898822.jpg?size=626&ext=jpg&ga=GA1.2.1449299337.1618790400);
+    width:32%;
+    height:100%;
+    float:left;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin:5px;
+    position: relative; 
+}
+.btn{
+    position: absolute;
+    bottom: 20px;
+    left:40%;
+}
+
+.btn-secondary{
+    position: unset;
+}
